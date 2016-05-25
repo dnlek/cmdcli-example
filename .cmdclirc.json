@@ -1,0 +1,4 @@
+{
+  "localCommands": ["./commands"],
+  "baseConfig": {}
+}
